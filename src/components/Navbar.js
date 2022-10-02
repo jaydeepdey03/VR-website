@@ -48,10 +48,19 @@ const Navbar = () => {
                                 <a href="#about" className="block py-2 pr-4 pl-3 text-red-600 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700 text-md md:text-xl">About</a>
                             </li>
                             <li>
-                                <a href="#" className="block py-2 pr-4 pl-3 text-red-600 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700 text-md md:text-xl">Services</a>
+                                <a href="#features" className="block py-2 pr-4 pl-3 text-red-600 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700 text-md md:text-xl">Features</a>
+                            </li>
+                            <li>
+                                <a href="#services" className="block py-2 pr-4 pl-3 text-red-600 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700 text-md md:text-xl">Services</a>
                             </li>
                             <li>
                                 <a href="#pricing" className="block py-2 pr-4 pl-3 text-red-600 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700 text-md md:text-xl">Pricing</a>
+                            </li>
+                            <li>
+                                <a href="#faq" className="block py-2 pr-4 pl-3 text-red-600 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700 text-md md:text-xl">FAQ</a>
+                            </li>
+                            <li>
+                                <a href="#feedback" className="block py-2 pr-4 pl-3 text-red-600 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700 text-md md:text-xl">Feedback</a>
                             </li>
                             <li>
                                 <a href="#contact" className="block py-2 pr-4 pl-3 text-red-600 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700 text-md md:text-xl">Contact</a>
