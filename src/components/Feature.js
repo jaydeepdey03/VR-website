@@ -2,7 +2,7 @@ import React from 'react'
 
 const Feature = () => {
     return (
-        <div className='mt-32 md:mt-96' id='features'>
+        <div className='mt-32 md:mt-96'>
             <div className='mt-10'>
                 <h2 className='text-4xl font-bold text-center'>Product Features</h2>
                 <p className='text-center text-gray-700 opacity-60 p-5'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis, sunt.</p>

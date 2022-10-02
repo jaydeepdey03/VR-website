@@ -8,7 +8,7 @@ import vr1 from '../img/vr1.webp'
 
 const Feedback = () => {
     return (
-        <div className="relative h-full" id="feedback">
+        <div className="relative h-full">
             <div className='flex flex-col m-8 md:m-20'>
                 <div className='text-center md:p-5 space-y-6'>
                     <h2 className='text-3xl md:text-5xl font-bold ml-20 mr-20'>Our Customer Feedback</h2>
