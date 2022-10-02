@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/VR-website/static/css/main.ab14a109.css",
+    "main.js": "/VR-website/static/js/main.87fbee8e.js",
+    "static/media/vr3.png": "/VR-website/static/media/vr3.ea56e56e998383681355.png",
+    "static/media/vrbox.png": "/VR-website/static/media/vrbox.3883a59d3d5e38053373.png",
+    "static/media/vr1.png": "/VR-website/static/media/vr1.4be491c72cf5b3248d46.png",
+    "static/media/vr.svg": "/VR-website/static/media/vr.f5dded0ff44855d4d19daf7375fcf1fb.svg",
+    "static/media/vr1.webp": "/VR-website/static/media/vr1.1079cfe15fbf7857c03e.webp",
+    "index.html": "/VR-website/index.html",
+    "main.ab14a109.css.map": "/VR-website/static/css/main.ab14a109.css.map",
+    "main.87fbee8e.js.map": "/VR-website/static/js/main.87fbee8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab14a109.css",
+    "static/js/main.87fbee8e.js"
+  ]
+}
