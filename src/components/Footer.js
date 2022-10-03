@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
     return (
         <div className='flex flex-col md:flex-row justify-center md:justify-around items-center p-3 md:m-0 bg-golden bottom-'>
-            <button class="bg-orange-300 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full">
+            <button className="bg-orange-300 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full">
                 <span>No of Visitors: <span>3000</span></span>
             </button>
             <div className='flex space-x-2 md:space-x-10 p-7 justify-center items-center'>
