@@ -8,7 +8,7 @@ const Header = () => {
                 <div className='flex justify-around flex-col md:flex-row'>
                     <div className='p-10'>
                         <h2 className='mt-10 font-bold text-6xl md:text-7xl text-center opacity-80 p-5'>Virtual Reality for Life</h2>
-                        <p className='text-center text-slate-500 mt-2 mb-10 pl-10 pr-10'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia officia veritatis eligendi rem voluptas accusantium eos, perferendis eius modi voluptatum.</p>
+                        <p className='text-center text-slate-500 mt-2 mb-10 pl-10 pr-10'>Virtual reality VR is a simulated experience that can be similar to or completely different from the real world.</p>
                         <button style={{background: "linear-gradient(90deg, rgba(255,81,81,1) 0%, rgba(255,165,0,1) 100%)",}} className="hover:bg-red-700 text-white font-bold py-2 px-4 rounded block m-auto">Buy Products</button>
                     </div>
                     <img className='hidden h-96 w-96 md:block m-auto motion-reduce:animate-bounce' src={vr} alt="" />
